@@ -1,4 +1,5 @@
 📊 Análisis de Marketing y Adquisición de Clientes – Showz
+
 📌 Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar el rendimiento de las estrategias de marketing de Showz, una empresa de venta de entradas, con el fin de optimizar la inversión en adquisición de clientes. A través del análisis del comportamiento de usuarios, compras y costos de marketing, se generan insights que apoyan la toma de decisiones basadas en datos.
