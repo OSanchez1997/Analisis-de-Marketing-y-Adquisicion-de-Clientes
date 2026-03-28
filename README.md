@@ -1,61 +1,83 @@
-📊 Análisis de Marketing y Adquisición de Clientes – Showz
+# 📊 Análisis de Marketing y Adquisición de Clientes – Showz
 
-📌 Descripción del proyecto
+## 📌 Descripción del proyecto
 
-Este proyecto tiene como objetivo analizar el rendimiento de las estrategias de marketing de Showz, una empresa de venta de entradas, con el fin de optimizar la inversión en adquisición de clientes. A través del análisis del comportamiento de usuarios, compras y costos de marketing, se generan insights que apoyan la toma de decisiones basadas en datos.
+Este proyecto tiene como objetivo analizar el rendimiento de las estrategias de marketing de Showz, una empresa de venta de entradas, con el fin de optimizar la inversión en adquisición de clientes. A través del análisis del comportamiento de los usuarios, compras y costos de marketing, se generan resultados que apoyan la toma de decisiones basadas en datos.
 
-🎯 Objetivos
+---
 
-Analizar el comportamiento de los usuarios dentro de la plataforma
-Identificar cuándo los usuarios comienzan a realizar compras
-Evaluar la frecuencia y volumen de pedidos
-Analizar el rendimiento de las fuentes de adquisición
-Determinar qué estrategias de marketing generan mayor valor
+## 🎯 Objetivos
 
-📊 Datos utilizados
+- Analizar el comportamiento de los usuarios dentro de la plataforma  
+- Identificar cuándo los usuarios comienzan a realizar compras  
+- Evaluar la frecuencia y volumen de pedidos  
+- Analizar el rendimiento de las fuentes de adquisición  
+- Determinar qué estrategias de marketing generan mayor valor  
+
+---
+
+## 📊 Datos utilizados
 
 El análisis se realizó utilizando tres fuentes de datos:
 
-Visitas: información sobre sesiones, dispositivos y fuentes de tráfico
-Pedidos: datos de compras e ingresos generados
-Costos: inversión en marketing por fuente y fecha
+- **Visitas:** información sobre sesiones, dispositivos y fuentes de tráfico  
+- **Pedidos:** datos de compras e ingresos generados  
+- **Costos:** inversión en marketing por fuente y fecha  
 
-🧠 Metodología
+---
 
-Preparación de datos
-Limpieza y validación de datos
-Conversión de tipos de datos
-Integración de múltiples datasets
-Análisis Exploratorio (EDA)
-Análisis de usuarios activos (diario, semanal, mensual)
-Evaluación de sesiones y comportamiento de usuarios
-Análisis de recurrencia
-Análisis de negocio
-Evaluación de ingresos generados por usuario
-Análisis de conversión de usuarios a clientes
-Comparación de rendimiento entre canales de adquisición
-Visualización
-Gráficos para identificar tendencias y patrones
-Comparación de métricas a lo largo del tiempo
+## 🧠 Metodología
 
-🛠️ Herramientas utilizadas
+**Preparación de datos**
+- Limpieza y validación de datos  
+- Conversión de tipos de datos  
+- Integración de múltiples datasets  
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+**Análisis Exploratorio (EDA)**
+- Análisis de usuarios activos (diario, semanal, mensual)  
+- Evaluación de sesiones y comportamiento de usuarios  
+- Análisis de recurrencia  
 
-📈 Resultados
+**Análisis de negocio**
+- Evaluación de ingresos generados por usuario  
+- Análisis de conversión de usuarios a clientes  
+- Comparación de rendimiento entre canales de adquisición  
 
-Se identificaron las fuentes de adquisición más eficientes
-Se detectaron diferencias en el comportamiento de usuarios según canal
-Se analizaron patrones de conversión y generación de ingresos
-Se obtuvieron insights clave para optimizar la inversión en marketing
+**Visualización**
+- Creación de gráficos para identificar tendencias y patrones  
+- Comparación de métricas a lo largo del tiempo  
 
-💡 Conclusiones
+---
 
-El análisis permitió comprender qué estrategias de marketing generan mayor valor para el negocio, facilitando la toma de decisiones enfocadas en optimizar la inversión y mejorar la rentabilidad.
+## 🛠️ Herramientas utilizadas
 
-El análisis permitió comprender qué estrategias de marketing generan mayor valor para el negocio, facilitando la toma de decisiones enfocadas en optimizar la inversión y mejorar la rentabilidad.
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## 📈 Resultados
+
+- Se identificaron las fuentes de adquisición más eficientes  
+- Se detectaron diferencias en el comportamiento de usuarios según canal  
+- Se analizaron patrones de conversión y generación de ingresos  
+- Se identificaron oportunidades para optimizar la inversión en marketing  
+
+---
+
+## 🚀 Recomendaciones
+
+- Priorizar la inversión en canales con mejor desempeño en conversión e ingresos  
+- Optimizar o replantear estrategias en canales con bajo rendimiento  
+- Enfocar esfuerzos en mejorar la conversión de usuarios recurrentes  
+- Monitorear métricas clave de adquisición y comportamiento de forma continua  
+
+---
+
+## 💡 Conclusiones
+
+El análisis permitió comprender qué estrategias de marketing generan mayor valor para el negocio, facilitando la toma de decisiones orientadas a optimizar la inversión y mejorar la rentabilidad.
